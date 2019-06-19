@@ -5,7 +5,7 @@
     <classes>
       <class name="selegit.newp">
         <methods>
-          <include name="loginFunctionality"/>
+          <include name="password"/>
         </methods>
       </class> <!-- selegit.newp -->
     </classes>

@@ -1,20 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="8623" started-at="2019-06-19T18:20:35Z" finished-at="2019-06-19T18:20:43Z">
+  <suite name="Default suite" duration-ms="13948" started-at="2019-06-19T18:40:14Z" finished-at="2019-06-19T18:40:28Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="8623" started-at="2019-06-19T18:20:35Z" finished-at="2019-06-19T18:20:43Z">
+    <test name="Default test" duration-ms="13948" started-at="2019-06-19T18:40:14Z" finished-at="2019-06-19T18:40:28Z">
       <class name="selegit.newp">
-        <test-method status="PASS" signature="driver()[pri:0, instance:selegit.newp@4f933fd1]" name="driver" duration-ms="8283" started-at="2019-06-19T18:20:35Z" finished-at="2019-06-19T18:20:43Z">
+        <test-method status="PASS" signature="driver()[pri:0, instance:selegit.newp@4f933fd1]" name="driver" duration-ms="5455" started-at="2019-06-19T18:40:14Z" finished-at="2019-06-19T18:40:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- driver -->
-        <test-method status="PASS" signature="loginFunctionality()[pri:0, instance:selegit.newp@4f933fd1]" name="loginFunctionality" duration-ms="320" started-at="2019-06-19T18:20:43Z" finished-at="2019-06-19T18:20:43Z">
+        <test-method status="PASS" signature="loginFunctionality()[pri:0, instance:selegit.newp@4f933fd1]" name="loginFunctionality" duration-ms="281" started-at="2019-06-19T18:40:19Z" finished-at="2019-06-19T18:40:19Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginFunctionality -->
+        <test-method status="PASS" signature="password()[pri:0, instance:selegit.newp@4f933fd1]" name="password" duration-ms="662" started-at="2019-06-19T18:40:19Z" finished-at="2019-06-19T18:40:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method status="PASS" signature="search()[pri:0, instance:selegit.newp@4f933fd1]" name="search" duration-ms="7528" started-at="2019-06-19T18:40:20Z" finished-at="2019-06-19T18:40:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
       </class> <!-- selegit.newp -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
